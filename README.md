@@ -8,7 +8,7 @@ yuri
 - CakePHP 2年
 - Laravel 1年
 
-## プロジェクト
+## 個人プロジェクト
 
 ### [サクッと作文　韓国語](https://github.com/yuri-otms/sksk_ko) sksk_ko
 
