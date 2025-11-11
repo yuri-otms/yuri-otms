@@ -8,6 +8,12 @@ yuri
 - CakePHP 2年
 - Laravel 1年
 
+### 学習
+- Python 3ヶ月
+- Flask 2ヶ月　… 韓国語学習Webアプリのデモ作成　
+- Java 3ヶ月
+- Javaサーブレット/JSP 1ヶ月　… 個人使用の学習時間計測Webアプリ作成
+
 ## 個人プロジェクト
 
 ### [サクッと作文　韓国語](https://github.com/yuri-otms/sksk_ko) sksk_ko
