@@ -18,7 +18,7 @@ yuri
 
 ### [サクッと作文　韓国語](https://github.com/yuri-otms/sksk_ko) sksk_ko
 
-- https://ko.sksk.fun/ 2025年11月30日閉鎖予定
+- https://ko.skskfun.com/ 2025年11月30日ドメイン変更
 - 【アプリ概要】簡単な日本語を韓国語作文することで韓国語を学習するアプリケーションです。
 - 【公開日】2023年7月16日
 - 【使用技術】Python/Flask/MySQL/JavaScript/jQuery/Bootstrap
